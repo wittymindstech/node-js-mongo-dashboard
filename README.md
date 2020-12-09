@@ -1,6 +1,7 @@
 # node-js-mongo-dashboard
 
 #add all the project steps here 
+# ad index.html in cuwd 
 
 # changes in github browser dashboard_menu_gaurav branch
 
